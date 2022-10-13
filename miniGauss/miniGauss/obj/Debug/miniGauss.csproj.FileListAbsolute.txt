@@ -1,0 +1,7 @@
+D:\Study\Projects\miniGauss\miniGauss\bin\Debug\miniGauss.exe.config
+D:\Study\Projects\miniGauss\miniGauss\bin\Debug\miniGauss.exe
+D:\Study\Projects\miniGauss\miniGauss\bin\Debug\miniGauss.pdb
+D:\Study\Projects\miniGauss\miniGauss\obj\Debug\miniGauss.csprojAssemblyReference.cache
+D:\Study\Projects\miniGauss\miniGauss\obj\Debug\miniGauss.csproj.CoreCompileInputs.cache
+D:\Study\Projects\miniGauss\miniGauss\obj\Debug\miniGauss.exe
+D:\Study\Projects\miniGauss\miniGauss\obj\Debug\miniGauss.pdb
